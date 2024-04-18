@@ -1,4 +1,4 @@
-#wanDB Sweep のパラメータ設定
+# wanDB Sweep のパラメータ設定
 
 ### name:
 sweep全体の名前です．
